@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+/* font-family: 'Poppins', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+/* font-family: 'Open Sans', sans-serif; */
+body{
+    text-align:center;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+/* Heading Section */
+
+.heading{
+    font-weight:700;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header Section */
+header{
+    padding:5%;
+}
+.logo{
+    margin-right:70%;
+}
+.navi{
+    
+    }
+.btn {
+    background: #ffffff;
+    background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #d67ad6;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #d67ad6 2px;
+    text-decoration: none;
+  }
+  .btn:hover {
+    background: #edb9ea;
+    background-image: -webkit-linear-gradient(top, #edb9ea, #ecbef7);
+    background-image: -moz-linear-gradient(top, #edb9ea, #ecbef7);
+    background-image: -ms-linear-gradient(top, #edb9ea, #ecbef7);
+    background-image: -o-linear-gradient(top, #edb9ea, #ecbef7);
+    background-image: linear-gradient(to bottom, #edb9ea, #ecbef7);
+    text-decoration: none;
+  }
+
+  /* Title Section */
+#title{
+    
+}
+  .title-h1{
+    padding:5% 0 0;
+    font-weight:700;
+    font-family: 'Poppins', sans-serif;
+  }
+  .title-text{
+    padding:1% 35% 2%; 
+    font-family: 'Open Sans', sans-serif; 
+  }
+  .btn1 {
+    background: #d67ad6;
+    background-image: -webkit-linear-gradient(top, #d67ad6, #d67ad6);
+    background-image: -moz-linear-gradient(top, #d67ad6, #d67ad6);
+    background-image: -ms-linear-gradient(top, #d67ad6, #d67ad6);
+    background-image: -o-linear-gradient(top, #d67ad6, #d67ad6);
+    background-image: linear-gradient(to bottom, #d67ad6, #d67ad6);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #fff;
+    font-size: 20px;
+    padding: 20px 60px 20px 60px;
+    text-decoration: none;
+  }
+  .btn1:hover {
+    background: #863187;
+    background-image: -webkit-linear-gradient(top, #863187, #863187);
+    background-image: -moz-linear-gradient(top, #863187, #863187);
+    background-image: -ms-linear-gradient(top, #863187, #863187);
+    background-image: -o-linear-gradient(top, #863187, #863187);
+    background-image: linear-gradient(to bottom, #863187, #863187);
+    text-decoration: none;
+  }
+.getstarted-btn{
+    margin-bottom:10%;  
+}
+.screen-img{
+    padding: 8% 0 8%;
+}
+.title-last{
+    font-weight:700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+}
+.title-last-img{
+    position:relative;
+    right:10%;
+}
+.title-last-text{
+    font-size:20px;
+    color:grey;
+}
+
+/* Illustrations Section */
+
+#illustrations{
+    padding:15rem 0 5rem;
+}
+
+.grow-img{
+    width:40rem;
+}
+.grow-title{
+    width:70%;
+    text-align:left;
+    margin-top:2rem;
+}
+.grow-div{
+    margin-top:12rem;
+}
+.conversation-div{
+    margin:20% 0 20%;
+}
+
+/* CTA Section */
+
+#cta{
+    margin:20% auto 0;
+}
+.cta-title{
+    margin-bottom:3%;
+}
+.cta-btn{
+    width:30%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/* Footer Section */
+
+#footer{
+    margin-top:10%;
+    text-align:left;
+}
+.footer-bg{
+    width:100%;
+    
+}
+.footer-bg1{
+    background-color:#00252e;
+    
+}
+.foot-logo{
+    color:white;
+    margin-left:30%;
+    margin-bottom:5%;
+}
+.foot-text{
+    color:white;
+    padding: 0 30% 0;
+
+}
+.foot-div{
+    padding-top:10%;
+}
+.foot-p{
+    padding: 0 30% 0;
+}
+form{
+    float:left;
+}
+.subsribe{
+    margin-left:4%;
+}
+.form{
+    margin-left:30%;
+    margin-top:2%;
+}
+.icon{
+    color:white;
+    font-size:200%;
+    margin:5% 1% 10%;
+}
+.fa-facebook{
+    margin-left:15%;
+}
